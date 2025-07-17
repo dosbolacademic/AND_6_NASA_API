@@ -1,0 +1,30 @@
+<resources>
+    <!-- General App Name (if not already present) -->
+    <string name="app_name">My APOD Viewer</string> <!-- Or your actual app name -->
+
+    <!-- ImageView Content Description -->
+    <string name="apod_image_content_description">Astronomy Picture of the Day</string>
+
+    <!-- TextView Labels (for a key-value pair display, like in a table or list) -->
+    <string name="label_title">Title:</string>
+    <string name="label_date">Date:</string>
+    <string name="label_explanation">Explanation:</string>
+    <string name="label_copyright">Copyright:</string>
+    <string name="str_button">Click Here</string>
+
+    <!-- Placeholder text for TextViews (useful for layout design and initial state) -->
+    <string name="placeholder_title">Image Title Will Appear Here</string>
+    <string name="placeholder_date">YYYY-MM-DD</string>
+    <string name="placeholder_explanation">The detailed explanation of the astronomy picture will be displayed here once loaded. This can sometimes be quite long, so ensure the view is scrollable if necessary.</string>
+    <string name="placeholder_copyright">Copyright information (if available)</string>
+
+    <!-- Button Text (if you have a button to fetch data, for example) -->
+    <string name="button_fetch_apod">Get Today\'s Picture</string>
+    <string name="button_view_hd_image">View HD Image</string> <!-- Even if not directly in a TextView, a button might trigger viewing HD URL -->
+
+    <!-- Error Messages (Good Practice) -->
+    <string name="error_loading_image">Failed to load image.</string>
+    <string name="error_no_data">Could not retrieve APOD data.</string>
+    <string name="info_media_type_not_image">This APOD is not an image (%1$s).</string> <!-- Example if you were to handle media_type -->
+
+</resources>

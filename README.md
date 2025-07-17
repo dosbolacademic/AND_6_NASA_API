@@ -42,7 +42,9 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+GIF created with **ScreenToGif**
+
+![AND102-Project-3](https://github.com/user-attachments/assets/2066d2c4-f4d9-4243-9c2f-e47d30df363e)
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
